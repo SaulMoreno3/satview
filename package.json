@@ -13,7 +13,7 @@
     "react-dom": "^16.13.1",
     "react-leaflet": "^2.7.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.3"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -35,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "engines": {
+    "node": "^22.23.4 || ^24.22.1 || ^26.12.1"
   }
 }
